@@ -59,7 +59,7 @@
     <p><strong>الاسم:</strong> Farooz</p> <!-- Display token name -->
     <p><strong>الرمز:</strong> F</p> <!-- Display token symbol -->
     <p><strong>الإجمالي:</strong> 9,999,999,999</p> <!-- Display total supply -->
-    <p><strong>العقد:</strong> <span id="contract">(سيتم إضافته لاحقًا)</span></p> <!-- Placeholder for contract address -->
+    <p><strong>العقد:</strong> a href="https://bscscan.com/address/0xYOUR_CONTRACT_HERE" target="_blank">0xYOUR_CONTRACT_HERE</a></p> <!-- Placeholder for contract address -->
   </div>
 
   <!-- Card for displaying a brief description of the token -->
